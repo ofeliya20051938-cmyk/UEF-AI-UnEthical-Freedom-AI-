@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+pytorch-quantization
+bitsandbytes
+datasets
+huggingface-hub
+transformers
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+pyyaml
